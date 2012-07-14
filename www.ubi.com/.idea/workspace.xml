@@ -25,95 +25,19 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/US/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="76" column="83" selection-start="4653" selection-end="4670" vertical-scroll-proportion="0.7113821">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minified.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/scripts/minified.js">
+      <file leaf-file-name="all.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/all.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="25" selection-start="10456" selection-end="10456" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="umon2.1.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://Z:/uts.ubi.com/scripts/umon2.1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="45" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/scripts/all.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5232" column="14" selection-start="224471" selection-end="224471" vertical-scroll-proportion="0.0">
+            <state line="2426" column="0" selection-start="53320" selection-end="53320" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1342234845869" expanded="true" signature="36925:37077" placeholder="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sifr.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/scripts/sifr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="26" selection-start="0" selection-end="29389" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ubisoft.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/scripts/ubisoft.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="35" selection-start="0" selection-end="8225" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlashDetect.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/scripts/FlashDetect.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="17" selection-start="0" selection-end="4986" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SV54GD~I" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/scripts/SV54GD~I">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="19" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="swfobject.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/scripts/swfobject.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="0" selection-end="9759" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ubisoft_homepage.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/scripts/ubisoft_homepage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="25" selection-start="0" selection-end="4039" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -129,6 +53,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/resources/scripts/all.js" />
+        <option value="$PROJECT_DIR$/resources/all.css" />
         <option value="$PROJECT_DIR$/US/index.html" />
       </list>
     </option>
@@ -247,31 +172,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.ubi.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.ubi.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="Z:/uts.ubi.com/scripts" />
+    <property name="last_opened_file_path" value="Z:/tools.ubi.com/googlesearch/ubiportal/portalsearchfield_1_5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -379,8 +286,9 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2159091" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2159091" sideWeight="0.67086333" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -388,7 +296,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -448,52 +355,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/scripts/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="17" selection-start="0" selection-end="54075" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scripts/mootools.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="0" selection-end="109496" vertical-scroll-proportion="0.34136546">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scripts/SV54GD~I">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="19" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scripts/swfobject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="0" selection-end="9759" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scripts/ubisoft.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="35" selection-start="0" selection-end="8225" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scripts/sifr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="0" selection-end="29389" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/scripts/FlashDetect.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="17" selection-start="0" selection-end="4986" vertical-scroll-proportion="0.0">
@@ -522,18 +383,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scripts/all.js">
+    <entry file="file://$PROJECT_DIR$/resources/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5232" column="14" selection-start="224471" selection-end="224471" vertical-scroll-proportion="0.0">
+        <state line="9" column="32" selection-start="0" selection-end="722" vertical-scroll-proportion="0.2881356">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="0" selection-end="25817" vertical-scroll-proportion="0.51224107">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ubi_stylesheet_us.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="19" selection-start="0" selection-end="10359" vertical-scroll-proportion="0.38418078">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ubi_stylesheet_header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="27" selection-start="0" selection-end="4563" vertical-scroll-proportion="0.49227798">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1341005304615" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ubi_stylesheet_footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="30" selection-start="0" selection-end="441" vertical-scroll-proportion="0.48022598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sifr-filter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="28" selection-start="0" selection-end="129" vertical-scroll-proportion="0.32015067">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sIFR-screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="20" selection-start="0" selection-end="916" vertical-scroll-proportion="0.44821092">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ubi_stylesheet_home_us.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="25" selection-start="0" selection-end="6667" vertical-scroll-proportion="0.52509654">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/UEIF3G~I.CSS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="25" selection-start="0" selection-end="3887" vertical-scroll-proportion="0.49227798">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2426" column="0" selection-start="53320" selection-end="53320" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1342234845869" expanded="true" signature="36925:37077" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://Z:/tools.ubi.com/googlesearch/ubiportal/portalsearchfield_1_5/portalsearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="13" selection-start="433" selection-end="433" vertical-scroll-proportion="0.06910569">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/US/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="76" column="83" selection-start="4653" selection-end="4670" vertical-scroll-proportion="0.7113821">
           <folding />
         </state>
       </provider>
