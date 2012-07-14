@@ -25,7 +25,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/US/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="83" selection-start="4653" selection-end="4670" vertical-scroll-proportion="0.7113821">
+            <state line="44" column="78" selection-start="2489" selection-end="2489" vertical-scroll-proportion="0.8180751">
               <folding />
             </state>
           </provider>
@@ -61,8 +61,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="690" />
+    <option name="width" value="1936" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -262,7 +262,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method>
@@ -274,32 +274,33 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="1be8051e-32fa-4a43-b1cd-923c60c7040e" name="Default" comment="" />
       <created>1342229965502</created>
       <updated>1342229965502</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="690" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1050" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2159091" sideWeight="0.67086333" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1875" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -357,116 +358,77 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/scripts/FlashDetect.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="0" selection-end="4986" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="17" selection-start="0" selection-end="4986" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/scripts/ubisoft_homepage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="25" selection-start="0" selection-end="4039" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="25" selection-start="0" selection-end="4039" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/scripts/minified.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="25" selection-start="10456" selection-end="10456" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="25" selection-start="10456" selection-end="10456" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://Z:/uts.ubi.com/scripts/umon2.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="45" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="197" column="45" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="0" selection-end="722" vertical-scroll-proportion="0.2881356">
-          <folding />
-        </state>
+        <state line="9" column="32" selection-start="0" selection-end="722" vertical-scroll-proportion="0.2881356" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="33" selection-start="0" selection-end="25817" vertical-scroll-proportion="0.51224107">
-          <folding />
-        </state>
+        <state line="16" column="33" selection-start="0" selection-end="25817" vertical-scroll-proportion="0.51224107" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/ubi_stylesheet_us.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="0" selection-end="10359" vertical-scroll-proportion="0.38418078">
-          <folding />
-        </state>
+        <state line="12" column="19" selection-start="0" selection-end="10359" vertical-scroll-proportion="0.38418078" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/ubi_stylesheet_header.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="27" selection-start="0" selection-end="4563" vertical-scroll-proportion="0.49227798">
-          <folding>
-            <marker date="1341005304615" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="15" column="27" selection-start="0" selection-end="4563" vertical-scroll-proportion="0.49227798" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/ubi_stylesheet_footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="0" selection-end="441" vertical-scroll-proportion="0.48022598">
-          <folding />
-        </state>
+        <state line="15" column="30" selection-start="0" selection-end="441" vertical-scroll-proportion="0.48022598" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/sifr-filter.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="0" selection-end="129" vertical-scroll-proportion="0.32015067">
-          <folding />
-        </state>
+        <state line="10" column="28" selection-start="0" selection-end="129" vertical-scroll-proportion="0.32015067" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/sIFR-screen.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="20" selection-start="0" selection-end="916" vertical-scroll-proportion="0.44821092">
-          <folding />
-        </state>
+        <state line="14" column="20" selection-start="0" selection-end="916" vertical-scroll-proportion="0.44821092" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/ubi_stylesheet_home_us.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="0" selection-end="6667" vertical-scroll-proportion="0.52509654">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/UEIF3G~I.CSS">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="25" selection-start="0" selection-end="3887" vertical-scroll-proportion="0.49227798">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2426" column="0" selection-start="53320" selection-end="53320" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1342234845869" expanded="true" signature="36925:37077" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="16" column="25" selection-start="0" selection-end="6667" vertical-scroll-proportion="0.52509654" />
       </provider>
     </entry>
     <entry file="file://Z:/tools.ubi.com/googlesearch/ubiportal/portalsearchfield_1_5/portalsearch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="13" selection-start="433" selection-end="433" vertical-scroll-proportion="0.06910569">
-          <folding />
-        </state>
+        <state line="29" column="13" selection-start="433" selection-end="433" vertical-scroll-proportion="0.06910569" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2426" column="0" selection-start="53320" selection-end="53320" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/US/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="83" selection-start="4653" selection-end="4670" vertical-scroll-proportion="0.7113821">
+        <state line="44" column="78" selection-start="2489" selection-end="2489" vertical-scroll-proportion="0.8180751">
           <folding />
         </state>
       </provider>
