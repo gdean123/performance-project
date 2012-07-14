@@ -2424,3 +2424,61 @@ div#search-support form input.go:hover,div#search-support form input.hover{
 	_background:none;
 	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='/resources/images/style/homepage/promoimgbg.png',sizingMethod='image');
 }
+
+
+/*=========== CSS Sprite ============*/
+.sprite-background{ background-image: url('../resources/images/AllImages.png');}
+
+.sprite-WD_062012_300x250{ background-position: 0 0; width: 300px; height: 250px; }
+.sprite-ad_txt{ background-position: 0 -300px; width: 19px; height: 90px; }
+.sprite-arw_dwn_ltgrey{ background-position: 0 -440px; width: 7px; height: 4px; }
+.sprite-arw_dwn_white{ background-position: 0 -494px; width: 7px; height: 4px; }
+.sprite-arw_left_ltgrey{ background-position: 0 -548px; width: 4px; height: 7px; }
+.sprite-arw_left_white{ background-position: 0 -605px; width: 4px; height: 7px; }
+.sprite-arw_right_dkgrey{ background-position: 0 -662px; width: 4px; height: 7px; }
+.sprite-arw_right_ltgrey{ background-position: 0 -719px; width: 4px; height: 7px; }
+.sprite-arw_right_white{ background-position: 0 -776px; width: 4px; height: 7px; }
+.sprite-arwdwn_off{ background-position: 0 -833px; width: 5px; height: 3px; }
+.sprite-arwdwn_on{ background-position: 0 -886px; width: 5px; height: 3px; }
+.sprite-blank{ background-position: 0 -939px; width: 1px; height: 1px; }
+.sprite-btn206off{ background-position: 0 -990px; width: 206px; height: 20px; }
+.sprite-btn206on{ background-position: 0 -1060px; width: 206px; height: 20px; }
+.sprite-cal_btm{ background-position: 0 -1130px; width: 470px; height: 105px; }
+.sprite-cal_cta{ background-position: 0 -1285px; width: 215px; height: 20px; }
+.sprite-cal_roll{ background-position: 0 -1355px; width: 470px; height: 20px; }
+.sprite-cal_top{ background-position: 0 -1425px; width: 470px; height: 22px; }
+.sprite-carousel_bg{ background-position: 0 -1497px; width: 1200px; height: 441px; }
+.sprite-carousel_tile{ background-position: -1250px 0; width: 1px; height: 441px; }
+.sprite-circlearw_off{ background-position: -1250px -491px; width: 20px; height: 18px; }
+.sprite-circlearw_on{ background-position: -1250px -559px; width: 20px; height: 18px; }
+.sprite-columnhdrbg{ background-position: -1250px -627px; width: 1px; height: 22px; }
+.sprite-columnroll{ background-position: -1250px -699px; width: 1px; height: 20px; }
+.sprite-darkcolumn_repeat{ background-position: -1250px -769px; width: 230px; height: 1px; }
+.sprite-darkcolumnbg{ background-position: -1250px -820px; width: 230px; height: 662px; }
+.sprite-divleftcolumn{ background-position: -1250px -1532px; width: 206px; height: 1px; }
+.sprite-drop_down_bkg{ background-position: -1250px -1583px; width: 16px; height: 16px; }
+.sprite-dropdownbtndrk{ background-position: -1250px -1649px; width: 206px; height: 19px; }
+.sprite-get_flash_player{ background-position: -1250px -1718px; width: 112px; height: 33px; }
+.sprite-global_bg{ background-position: -1250px -1801px; width: 1200px; height: 439px; }
+.sprite-global_bgtile{ background-position: -2500px 0; width: 1px; height: 439px; }
+.sprite-input_field{ background-position: -2500px -489px; width: 151px; height: 38px; }
+.sprite-lightgreydiv{ background-position: -2500px -577px; width: 2px; height: 20px; }
+.sprite-lightgreyhdr{ background-position: -2500px -647px; width: 1px; height: 20px; }
+.sprite-logobg{ background-position: -2500px -717px; width: 1px; height: 65px; }
+.sprite-navbg{ background-position: -2500px -832px; width: 1px; height: 39px; }
+.sprite-noflash_bg{ background-position: -2500px -921px; width: 1200px; height: 441px; }
+.sprite-noflash_tile{ background-position: -2500px -1412px; width: 1px; height: 441px; }
+.sprite-noflashbox{ background-position: -2500px -1903px; width: 292px; height: 80px; }
+.sprite-noflashbox_ovr{ background-position: -3750px 0; width: 292px; height: 80px; }
+.sprite-privacy_certified-2008{ background-position: -3750px -130px; width: 144px; height: 53px; }
+.sprite-promoOver{ background-position: -3750px -233px; width: 230px; height: 20px; }
+.sprite-promobtm{ background-position: -3750px -303px; width: 230px; height: 137px; }
+.sprite-promoimgbg{ background-position: -3750px -490px; width: 230px; height: 125px; }
+.sprite-ri_06_18_12_300x250{ background-position: -3750px -665px; width: 300px; height: 250px; }
+.sprite-rocksmith_dlc_061912_300x250{ background-position: -3750px -965px; width: 300px; height: 250px; }
+.sprite-txtfielddrk{ background-position: -3750px -1265px; width: 215px; height: 29px; }
+.sprite-ubilogo{ background-position: -3750px -1344px; width: 161px; height: 65px; }
+
+
+
+
