@@ -279,3 +279,5 @@ function ubi_do_WT_stat_silent(tag,system,actionvalue)
 {ubi_do_WT_stat(tag,system,'',true);}
 else
 {ubi_do_WT_stat(tag,system,actionvalue,true);}}
+if(!(navigator.platform&&navigator.platform=="MacPPC"&&BrowserObject.Engine.gecko19)){var gotham={src:'/resources/assets/flash/gotham.swf'}
+sIFR.activate(gotham);sIFR.replace(gotham,{wmode:'transparent',forceWidth:true,selector:'h1#global-header',css:{'.sIFR-root':{'font-size':'28px','color':'#FFFFFF','text-transform':'uppercase'}}});}
