@@ -26,8 +26,19 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://Z:/www.ubi.com/US/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="137" column="11" selection-start="8160" selection-end="8160" vertical-scroll-proportion="-1.3536586">
+            <state line="4" column="32" selection-start="109" selection-end="110" vertical-scroll-proportion="0.103658535">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://Z:/www.ubi.com/resources/all.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2425" column="1" selection-start="53319" selection-end="53319" vertical-scroll-proportion="-5.16">
+              <folding>
+                <marker date="1342937704480" expanded="true" signature="36925:37077" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,6 +117,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="US" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Z" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Z:" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.ubi.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -250,16 +279,16 @@
   <component name="editorHistoryManager">
     <entry file="file://Z:/www.ubi.com/resources/all.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2451" column="0" selection-start="55136" selection-end="55136" vertical-scroll-proportion="0.80763793">
+        <state line="2425" column="1" selection-start="53319" selection-end="53319" vertical-scroll-proportion="-5.16">
           <folding>
-            <marker date="1342937704480" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1342937704480" expanded="true" signature="36925:37077" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://Z:/www.ubi.com/US/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="11" selection-start="8160" selection-end="8160" vertical-scroll-proportion="-1.3536586">
+        <state line="4" column="32" selection-start="109" selection-end="110" vertical-scroll-proportion="0.103658535">
           <folding />
         </state>
       </provider>
