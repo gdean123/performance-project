@@ -21,7 +21,28 @@
     <favorites_list name="www.ubi.com" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="all.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/all.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2427" column="47" selection-start="53238" selection-end="53238" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1343099843801" expanded="true" signature="36926:36947" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/US/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="24" selection-start="485" selection-end="485" vertical-scroll-proportion="0.19653179">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -33,9 +54,9 @@
       <list>
         <option value="$PROJECT_DIR$/resources/scripts/all.js" />
         <option value="$PROJECT_DIR$/resources/scripts/minified.js" />
-        <option value="$PROJECT_DIR$/resources/all.css" />
         <option value="$PROJECT_DIR$/resources/scripts/new.js" />
         <option value="$PROJECT_DIR$/US/index.html" />
+        <option value="$PROJECT_DIR$/resources/all.css" />
       </list>
     </option>
   </component>
@@ -281,14 +302,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14797008" sideWeight="0.6713974" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14797008" sideWeight="0.6713974" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -426,19 +447,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/US/index.html">
+    <entry file="file://$PROJECT_DIR$/resources/all.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="62" selection-start="9751" selection-end="9751" vertical-scroll-proportion="0.68554914">
-          <folding />
+        <state line="2427" column="47" selection-start="53238" selection-end="53238" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1343099843801" expanded="true" signature="36926:36947" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/all.css">
+    <entry file="file://$PROJECT_DIR$/US/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1823" column="17" selection-start="37207" selection-end="37207" vertical-scroll-proportion="0.67564535">
-          <folding>
-            <marker date="1343097392972" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+        <state line="10" column="24" selection-start="485" selection-end="485" vertical-scroll-proportion="0.19653179">
+          <folding />
         </state>
       </provider>
     </entry>

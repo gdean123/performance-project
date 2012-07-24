@@ -2425,7 +2425,25 @@ div#search-support form input.go:hover,div#search-support form input.hover{
 	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='/resources/images/style/homepage/promoimgbg.png',sizingMethod='image');
 }
 
+/*=========== Previously Inline Styles ============*/
 
+#clearlist {
+  clear:both;
+}
+#spotlight {
+  height: 39px;
+  background-color: #ffffff;
+}
+
+#pvucontent {
+  width: 560px;
+  height: 406px;
+  background-color: #ffffff;
+}
+
+#dvTakeover {
+  display: none;
+}
 /*=========== CSS Sprite ============*/
 .sprite-background{ background-image: url('../resources/images/all.png');}
 
