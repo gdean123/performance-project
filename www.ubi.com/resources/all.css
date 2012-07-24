@@ -2444,28 +2444,24 @@ div#search-support form input.go:hover,div#search-support form input.hover{
 #dvTakeover {
   display: none;
 }
-/*=========== CSS Sprite ============*/
-.sprite-background{ background-image: url('../resources/images/all.png');}
+/*=========== CSS Sprites ============*/
+.sprite-background  { background-image: url('../resources/images/new1.png');}
+
+.sprite-background2  { background-image: url('../resources/images/new2.png');}
+
+.sprite-background3  { background-image: url('../resources/images/new3.png');}
+
+.sprite-ad_txt{ background-position: 0 0; width: 19px; height: 90px; }
+.sprite-blank{ background-position: 0 -140px; width: 1px; height: 1px; }
+.sprite-get_flash_player{ background-position: 0 -191px; width: 112px; height: 33px; }
+.sprite-ubilogo{ background-position: 0 -274px; width: 161px; height: 65px; }
+
+
+.sprite-noflashbox{ background-position: 0 0; width: 292px; height: 80px; }
+.sprite-noflashbox_ovr{ background-position: 0 -130px; width: 292px; height: 80px; }
+.sprite-privacy_certified-2008{ background-position: 0 -260px; width: 144px; height: 53px; }
 
 .sprite-WD_062012_300x250{ background-position: 0 0; width: 300px; height: 250px; }
-.sprite-ad_txt{ background-position: 0 -300px; width: 19px; height: 90px; }
-.sprite-arwdwn_off{ background-position: 0 -440px; width: 5px; height: 3px; }
-.sprite-arwdwn_on{ background-position: 0 -493px; width: 5px; height: 3px; }
-.sprite-blank{ background-position: 0 -546px; width: 1px; height: 1px; }
-.sprite-carousel_bg{ background-position: 0 -597px; width: 1200px; height: 441px; }
-.sprite-carousel_tile{ background-position: 0 -1088px; width: 1px; height: 441px; }
-.sprite-drop_down_bkg{ background-position: 0 -1579px; width: 16px; height: 16px; }
-.sprite-get_flash_player{ background-position: 0 -1645px; width: 112px; height: 33px; }
-.sprite-input_field{ background-position: 0 -1728px; width: 151px; height: 38px; }
-.sprite-logobg{ background-position: 0 -1816px; width: 1px; height: 65px; }
-.sprite-navbg{ background-position: 0 -1931px; width: 1px; height: 39px; }
-.sprite-noflashbox{ background-position: -1250px 0; width: 292px; height: 80px; }
-.sprite-noflashbox_ovr{ background-position: -1250px -130px; width: 292px; height: 80px; }
-.sprite-privacy_certified-2008{ background-position: -1250px -260px; width: 144px; height: 53px; }
-.sprite-promobtm{ background-position: -1250px -363px; width: 230px; height: 137px; }
-.sprite-ri_06_18_12_300x250{ background-position: -1250px -550px; width: 300px; height: 250px; }
-.sprite-rocksmith_dlc_061912_300x250{ background-position: -1250px -850px; width: 300px; height: 250px; }
-.sprite-searchbtn_off{ background-position: -1250px -1150px; width: 20px; height: 18px; }
-.sprite-ubilogo{ background-position: -1250px -1218px; width: 161px; height: 65px; }
-
+.sprite-ri_06_18_12_300x250{ background-position: 0 -300px; width: 300px; height: 250px; }
+.sprite-rocksmith_dlc_061912_300x250{ background-position: 0 -600px; width: 300px; height: 250px; }
 
