@@ -2445,11 +2445,11 @@ div#search-support form input.go:hover,div#search-support form input.hover{
   display: none;
 }
 /*=========== CSS Sprites ============*/
-.sprite-background  { background-image: url('../resources/images/new1.png');}
+.sprite-background  { background-image: url('../resources/images/sprite1.png');}
 
-.sprite-background2  { background-image: url('../resources/images/new2.png');}
+.sprite-background2  { background-image: url('../resources/images/sprite2.png');}
 
-.sprite-background3  { background-image: url('../resources/images/new3.png');}
+.sprite-background3  { background-image: url('../resources/images/sprite3.png');}
 
 .sprite-ad_txt{ background-position: 0 0; width: 19px; height: 90px; }
 .sprite-blank{ background-position: 0 -140px; width: 1px; height: 1px; }

@@ -25,9 +25,9 @@
       <file leaf-file-name="all.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/all.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2445" column="7" selection-start="53447" selection-end="53447" vertical-scroll-proportion="0.46576878">
+            <state line="2436" column="14" selection-start="53335" selection-end="53335" vertical-scroll-proportion="0.29405162">
               <folding>
-                <marker date="1343101911341" expanded="true" signature="36926:36947" placeholder="{...}" />
+                <marker date="1343102148301" expanded="true" signature="36926:36947" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,15 +37,6 @@
         <entry file="file://$PROJECT_DIR$/US/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="30" column="18" selection-start="1245" selection-end="1245" vertical-scroll-proportion="-15.038462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index_minh.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/US/index_minh.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="21" selection-start="172" selection-end="172" vertical-scroll-proportion="-3.9230769">
               <folding />
             </state>
           </provider>
@@ -181,6 +172,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.ubi.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.ubi.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -435,25 +444,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/all_minh.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2344" column="11" selection-start="49451" selection-end="49451" vertical-scroll-proportion="0.5353075">
-          <folding>
-            <marker date="1343100389582" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/US/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="18" selection-start="1245" selection-end="1245" vertical-scroll-proportion="-15.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/US/index_minh.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="21" selection-start="172" selection-end="172" vertical-scroll-proportion="-3.9230769">
           <folding />
         </state>
       </provider>
@@ -469,9 +462,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/all.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2445" column="7" selection-start="53447" selection-end="53447" vertical-scroll-proportion="0.46576878">
+        <state line="2436" column="14" selection-start="53335" selection-end="53335" vertical-scroll-proportion="0.29405162">
           <folding>
-            <marker date="1343101911341" expanded="true" signature="36926:36947" placeholder="{...}" />
+            <marker date="1343102148301" expanded="true" signature="36926:36947" placeholder="{...}" />
           </folding>
         </state>
       </provider>
