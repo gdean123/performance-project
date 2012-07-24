@@ -1808,7 +1808,7 @@ div.download-list ul li.submit{
 	height:65px;
 	background:url(images/style/header/nobanner/logobg.gif) repeat-x black;
 	min-width:970px;
-	_width:expression(((document.compatMode && document.compatMode=='CSS1Compat') ? document.documentElement.clientWidth : document.body.clientWidth) < 970 ? "970px" : "auto");
+	_width:expression(widthExpression(this));
 }
 #header-top-bar .content-area{
 	width:970px;

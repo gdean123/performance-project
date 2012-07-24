@@ -281,3 +281,7 @@ else
 {ubi_do_WT_stat(tag,system,actionvalue,true);}}
 if(!(navigator.platform&&navigator.platform=="MacPPC"&&BrowserObject.Engine.gecko19)){var gotham={src:'/resources/assets/flash/gotham.swf'}
 sIFR.activate(gotham);sIFR.replace(gotham,{wmode:'transparent',forceWidth:true,selector:'h1#global-header',css:{'.sIFR-root':{'font-size':'28px','color':'#FFFFFF','text-transform':'uppercase'}}});}
+
+function widthExpression(elem) {
+  elem.style._width = ((document.compatMode && document.compatMode=='CSS1Compat') ? document.documentElement.clientWidth : document.body.clientWidth) < 970 ? "970px" : "auto";
+};

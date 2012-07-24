@@ -22,22 +22,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/US/index.html">
+      <file leaf-file-name="all.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/all.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="78" selection-start="2489" selection-end="2489" vertical-scroll-proportion="0.8180751">
-              <folding />
+            <state line="1807" column="23" selection-start="36814" selection-end="36814" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1343095419357" expanded="true" signature="36925:36946" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/all.css">
+      <file leaf-file-name="minified.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/scripts/minified.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2426" column="0" selection-start="53320" selection-end="53320" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1342234845869" expanded="true" signature="36925:37077" placeholder="{...}" />
-              </folding>
+            <state line="284" column="25" selection-start="194052" selection-end="194052" vertical-scroll-proportion="0.7536232">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,8 +53,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/resources/scripts/all.js" />
-        <option value="$PROJECT_DIR$/resources/all.css" />
         <option value="$PROJECT_DIR$/US/index.html" />
+        <option value="$PROJECT_DIR$/resources/scripts/minified.js" />
+        <option value="$PROJECT_DIR$/resources/all.css" />
       </list>
     </option>
   </component>
@@ -90,16 +91,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -170,6 +161,34 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.ubi.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.ubi.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -281,14 +300,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1050" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3286026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1875" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14797008" sideWeight="0.6713974" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -297,7 +317,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -361,16 +380,6 @@
         <state line="12" column="17" selection-start="0" selection-end="4986" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scripts/ubisoft_homepage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="25" selection-start="0" selection-end="4039" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/scripts/minified.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="25" selection-start="10456" selection-end="10456" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://Z:/uts.ubi.com/scripts/umon2.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="197" column="45" selection-start="4840" selection-end="4840" vertical-scroll-proportion="0.0" />
@@ -421,14 +430,32 @@
         <state line="29" column="13" selection-start="433" selection-end="433" vertical-scroll-proportion="0.06910569" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2426" column="0" selection-start="53320" selection-end="53320" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/US/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="78" selection-start="2489" selection-end="2489" vertical-scroll-proportion="0.8180751">
+        <state line="11" column="20" selection-start="506" selection-end="506" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/scripts/ubisoft_homepage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1807" column="23" selection-start="36814" selection-end="36814" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1343095419357" expanded="true" signature="36925:36946" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/scripts/minified.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="284" column="25" selection-start="194052" selection-end="194052" vertical-scroll-proportion="0.7536232">
           <folding />
         </state>
       </provider>
